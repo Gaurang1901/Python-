@@ -1,0 +1,13 @@
+In-Order = D-B-E-A-F-C-G
+
+Pre-Order = A-B-D-E-C-F-G
+
+Post-Order = D-E-B-F-G-C-A
+
+
+
+In-Order = 17-32-44-48-50-62-78-88
+
+Pre-Order = 44-17-32-78-50-48-62-88
+
+Post Order= 32-17-48-62-50-88-78-44
